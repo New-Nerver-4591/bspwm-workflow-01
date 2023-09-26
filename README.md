@@ -6,4 +6,4 @@ To use configuration on specific monitors with high dpi or resolution, edit some
 
 Additional installation to audio-visualizer, is you need to install CAVA, and actual MPD to make bottom bar usable.
 # Preview
-!(./assets/Full.png)
+![BSPWM_Workflow](./assets/Preview.png)
